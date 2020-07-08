@@ -1,2 +1,2 @@
-#! user/bin/sh
-find -d *.sh 
+#! user/bin/sh 
+find "." -name "*.sh"
